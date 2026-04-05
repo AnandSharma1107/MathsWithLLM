@@ -27,5 +27,5 @@ This is a small AI tool which can help you **solve math questions**, **think log
 
 1. Clone the project:  
 ```bash
-git clone https://github.com/your-username/MathsWithLLM.git
+git clone https://github.com/AnandSharma1107/MathsWithLLM.git
 cd MathsWithLLM
