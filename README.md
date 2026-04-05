@@ -29,7 +29,7 @@ This is a small AI tool which can help you **solve math questions**, **think log
 ```bash
 git clone https://github.com/AnandSharma1107/MathsWithLLM.git
 cd MathsWithLLM
-![maths demo](https://github.com/user-attachments/assets/8b8e41aa-31ca-4ec4-9cd9-205661242aae)
+![maths demo](Assets/maths demo.gif)
 
 
 
