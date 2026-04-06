@@ -39,7 +39,6 @@ cd MathsWithLLM
 ## 💡 Demo
 ![maths demo](Assets/demo.gif)
 
-![maths demo](Assets/demo.gif)
 
 
 
