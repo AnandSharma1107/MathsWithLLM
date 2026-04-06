@@ -26,19 +26,18 @@ This is a small AI tool which can help you **solve math questions**, **think log
 ---
 
 
-![maths demo](Assets/demo.gif)
-
-
 ## ⚡ How to Run
 
 1. Clone the project:  
 ```bash
 git clone https://github.com/AnandSharma1107/MathsWithLLM.git
 cd MathsWithLLM
-
+```
 
 ---
-## Demo
+
+## 💡 Demo
+![maths demo](Assets/demo.gif)
 
 ![maths demo](Assets/demo.gif)
 
