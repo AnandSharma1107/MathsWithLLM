@@ -1,3 +1,5 @@
+
+
 # 🔢 Maths & Knowledge AI Assistant
 
 This is a small AI tool which can help you **solve math questions**, **think logically**, and **find information from Wikipedia**. It’s powered by a **GPT-OSS-120B model** from Groq.
@@ -24,7 +26,7 @@ This is a small AI tool which can help you **solve math questions**, **think log
 ---
 
 
-![maths demo](Assets/maths demo.gif)
+![maths demo](Assets/demo.gif)
 
 
 ## ⚡ How to Run
