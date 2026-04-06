@@ -37,5 +37,11 @@ git clone https://github.com/AnandSharma1107/MathsWithLLM.git
 cd MathsWithLLM
 
 
+---
+## Demo
+
+![maths demo](Assets/demo.gif)
+
+
 
 
