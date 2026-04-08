@@ -2,6 +2,8 @@
 
 # 🔢 Maths & Knowledge AI Assistant
 
+👉 **Live Demo:** https://mathswithllm-hrrwfzoqgsse8qoh5ehsij.streamlit.app/
+
 This is a small AI tool which can help you **solve math questions**, **think logically**, and **find information from Wikipedia**. It’s powered by a **GPT-OSS-120B model** from Groq.
 
 ---
